@@ -1,0 +1,17 @@
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\ACRUtility.exe.config
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\ACRUtility.exe
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\ACRUtility.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\MiFare.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\MiFare.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\MiFare.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csprojAssemblyReference.cache
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.Form1.resources
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.Properties.Resources.resources
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csproj.GenerateResource.cache
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csproj.CoreCompileInputs.cache
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csproj.CopyComplete
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.exe
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.xml

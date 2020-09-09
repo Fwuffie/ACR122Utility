@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MiFare.PcSc;
+using PCSC;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,21 @@ namespace ACRUtility
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var contextFactory = ContextFactory.Instance;
+            using (var context = contextFactory.Establish(SCardScope.System))
+            {
+                output.Text +=  "Currently connected readers: ";
+                var readerNames = context.GetReaders();
+                foreach (var readerName in readerNames)
+                {
+                    output.Text += "\n" + readerName;
+                }
+            }
+
         }
     }
 }
