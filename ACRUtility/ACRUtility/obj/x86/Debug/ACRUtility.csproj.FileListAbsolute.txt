@@ -6,7 +6,6 @@ C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debu
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\MiFare.pdb
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\MiFare.xml
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csprojAssemblyReference.cache
-C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.Form1.resources
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.Properties.Resources.resources
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csproj.GenerateResource.cache
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.csproj.CoreCompileInputs.cache
@@ -15,3 +14,18 @@ C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debu
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.pdb
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.pdb
 C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Iso7816.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Reactive.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Reactive.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Iso7816.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Iso7816.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Reactive.pdb
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\PCSC.Reactive.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Reactive.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\SysAdmin\source\repos\ACR122Utility2\ACRUtility\ACRUtility\obj\x86\Debug\ACRUtility.ACRUtility.resources
